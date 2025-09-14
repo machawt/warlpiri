@@ -3,7 +3,7 @@
  font-family: Arial;
 }
 table { table-layout: fixed;
-            width: 35em;
+            width: 45em;
         }
 table, th, td {
   border: 1px solid black;
