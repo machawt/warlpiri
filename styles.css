@@ -4,6 +4,7 @@
 }
 table { table-layout: fixed;
             width: 45em;
+       float:left;
         }
 table, th, td {
   border: 1px solid black;
