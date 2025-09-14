@@ -1,9 +1,9 @@
 * {
- font-size: 1.5em;
+ font-size: 1em;
  font-family: Arial;
 }
 table { table-layout: fixed;
-            width: 200px;
+            width: 25em;
         }
 table, th, td {
   border: 1px solid black;
